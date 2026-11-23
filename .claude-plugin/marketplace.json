@@ -1,0 +1,5 @@
+{
+  "name": "claude-backdrops",
+  "owner": { "name": "csbo-shibata" },
+  "plugins": [{ "name": "backdrops", "source": "./" }]
+}

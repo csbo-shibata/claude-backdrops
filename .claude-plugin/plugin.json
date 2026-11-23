@@ -1,0 +1,6 @@
+{
+  "name": "backdrops",
+  "version": "1.0.0",
+  "description": "動く背景（魚の水槽・0と1の雨）を /backdrop コマンドで切り替える。トークン使用率に応じて泡や列が増える",
+  "license": "MIT"
+}
